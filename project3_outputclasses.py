@@ -1,4 +1,4 @@
-#Claudia Cota 60341850
+
 class STEPS:
     def generate(self, json_text: 'json') -> None:
         '''generates the STEPS output'''
