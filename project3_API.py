@@ -1,4 +1,4 @@
-# Claudia Cota 60341850
+
 import json
 import urllib.parse
 import urllib.request
